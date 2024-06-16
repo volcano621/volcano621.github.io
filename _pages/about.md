@@ -56,7 +56,7 @@ Hi, I’m Jingyu Tang, a sophomore student from Huazhong University of Science a
 # 🏆 Honors and Awards
 - *2023.03* Freshman Public Welfare Scholarship.
 - *2023.04* Hubei Provincial College Programming Contest, Bronze Prize. 
-- *2024.03* CSP 300. 
+- *2024.03* Certified Software Professional 300 (top 3.8%). 
 
 # 📖 Educations
 - *2022.09 - 2026.06 (expected)*,  BEng., Computer Science and Technology, Huazhong University of Science and Technology.
