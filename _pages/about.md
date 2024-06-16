@@ -31,7 +31,7 @@ Hi, I’m Jingyu Tang, a sophomore student from Huazhong University of Science a
 
 # 🔨 Skills
 - Language
-  GRE: 159(V), 170(Q), 4(A)
+  - GRE: 159(V), 170(Q), 4(A)
 - Tech
   - LLM Deployment
   - Web Development(Vue/React, D3, TypeScipt, Flask/FastAPI...)
