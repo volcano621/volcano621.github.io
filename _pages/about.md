@@ -64,4 +64,5 @@ Hi, I’m Jingyu Tang, a sophomore student from Huazhong University of Science a
 -->
 
 # 💻 Internships
-- *2023.12 - (now)*, research intern, Lehigh University, working under the guidance of Prof. Yao Wan.
+- *2023.12 - (now)*, AI research intern, Huazhong University of Science and Technology, working under the guidance of Prof. Yao Wan.
+- *2024.4 - （now）*, HCI research intern, University of Minnesota, working under the guidance of Prof. Zhutian Chen.
