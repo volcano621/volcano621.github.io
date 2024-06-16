@@ -53,7 +53,7 @@ Hi, I’m Jingyu Tang, a sophomore student from Huazhong University of Science a
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
-# 🎖 Honors and Awards
+# 🏆 Honors and Awards
 - *2023.03* Freshman Public Welfare Scholarship.
 - *2023.04* Hubei Provincial College Programming Contest, Bronze Prize. 
 - *2024.03* CSP 300. 
