@@ -30,10 +30,12 @@ Hi, I’m Jingyu Tang, a sophomore student from Huazhong University of Science a
 - LLM-based Agents: tool usage, efficiency and utility.
 
 # 🔨 Skills
-
-- LLM Deployment
-- Web Development(Vue/React, D3, TypeScipt, Flask/FastAPI...)
-- Design(Figma, PS, AI...)
+- Language
+  GRE: 159(V), 170(Q), 4(A)
+- Tech
+  - LLM Deployment
+  - Web Development(Vue/React, D3, TypeScipt, Flask/FastAPI...)
+  - Design(Figma, PS, AI...)
 
 # 📝 Publications 
 <!--
@@ -51,10 +53,11 @@ Hi, I’m Jingyu Tang, a sophomore student from Huazhong University of Science a
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
-<!--# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
--->
+# 🎖 Honors and Awards
+- *2023.03* Freshman Public Welfare Scholarship.
+- *2023.04* Hubei Provincial College Programming Contest, Bronze Prize. 
+- *2024.03* CSP 300. 
+
 # 📖 Educations
 - *2022.09 - 2026.06 (expected)*,  BEng., Computer Science and Technology, Huazhong University of Science and Technology.
 
