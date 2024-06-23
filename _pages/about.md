@@ -38,6 +38,27 @@ Hi, I’m Jingyu Tang, a sophomore student from Huazhong University of Science a
   - Design(Figma, PS, AI...)
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/ObscurePrompt.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+***ObscurePrompt*: Jailbreaking Large Language Models via Obscure Input** [[PDF]](https://arxiv.org/abs/2406.13662) [[Github]](https://github.com/HowieHwong/ObscurePrompt) 
+
+Yue Huang \*, **Jingyu Tang** \*, Dongping Chen \*, Bingda Tang, Yao Wan, Lichao Sun, Xiangliang Zhang
+
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/GUI.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**GUI-World: A Dataset for GUI-oriented Multimodal LLM-based Agents** [[PDF]](https://arxiv.org/abs/2406.10819) [[Github]](https://github.com/Dongping-Chen/GUI-World) [[Website]](https://gui-world.github.io)
+
+Dongping Chen \*, Yue Huang \*, Siyuan Wu \*, **Jingyu Tang** \*, Liuyi Chen, Yilin Bai, Zhigang He, Chenlong Wang, Huichi Zhou, Yiqiang Li, Tianshuo Zhou, Yue Yu, Chujie Gao, Qihui Zhang, Yi Gui, Zhen Li, Yao Wan, Pan Zhou, Jianfeng Gao, Lichao Sun
+
+</div>
+</div>
 <!--
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
